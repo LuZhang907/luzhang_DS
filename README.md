@@ -24,3 +24,5 @@
 
 
 # 📊 Github Stats
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LuZhang907)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuZhang907&layout=compact)](https://github.com/yushi1007)
