@@ -23,5 +23,5 @@ https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&log
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+
 # 📊 Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuZhang907](https://github.com/anuraghazra/github-readme-stats)
