@@ -24,7 +24,7 @@
 
 # ✍️ Latest Blog(Project) Posts
 
-* [Proportional Odds Model in R]([https://pages.github.com/](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0)).
+* [Proportional Odds Model in R](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
 * This site was built using [GitHub Pages](https://pages.github.com/).
 
 # 📊 Github Stats
