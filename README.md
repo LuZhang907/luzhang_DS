@@ -24,9 +24,7 @@
 
 # ✍️ Latest Blog(Project) Posts
 
-<h3 align=”center”>
-* <a href=”[https://www.yushi.dev/](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0)" target=”_blank” rel=”noreferrer”>Proportional Odds Model in R</a> 
-</h3>
+*[Proportional Odds Model in R]([https://pages.github.com/](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0)).
 
 # 📊 Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LuZhang907)](https://github.com/yushi1007)
