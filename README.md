@@ -1,4 +1,5 @@
-<img width="1066" alt="banner_github" src="https://github.com/LuZhang907/luzhang_DS/assets/63075429/ae6f91d1-a9c9-405a-a623-94ca4e8d17e5">
+![banner_github](https://github.com/LuZhang907/luzhang_DS/assets/63075429/62d7db48-121d-4961-85b0-28e982253fe9)
+
 
 # 💼 Technical Skills
 
