@@ -1,4 +1,4 @@
-![banner_github](https://github.com/LuZhang907/luzhang_DS/assets/63075429/62d7db48-121d-4961-85b0-28e982253fe9)
+<img width="983" alt="Screen Shot 2023-09-10 at 6 48 29 PM" src="https://github.com/LuZhang907/luzhang_DS/assets/63075429/5021c42d-77de-4ce0-a7af-d8dda140e4e0">
 
 
 # 💼 Technical Skills
