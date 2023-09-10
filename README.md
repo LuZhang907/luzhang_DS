@@ -22,10 +22,10 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-# ✍️ Latest Blog(Project) Posts
+# ✍️ Latest Project Posts
 
 * [Proportional Odds Model in R](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
-* This site was built using [GitHub Pages](https://pages.github.com/).
+* 
 
 # 📊 Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LuZhang907)](https://github.com/yushi1007)
