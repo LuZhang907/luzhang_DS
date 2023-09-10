@@ -25,7 +25,7 @@
 # ✍️ Latest Project Posts
 
 * [Proportional Odds Model in R](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
-* 
+
 
 # 📊 Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LuZhang907)](https://github.com/yushi1007)
