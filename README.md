@@ -23,9 +23,10 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 # ✍️ Latest Blog(Project) Posts
-
+<h3 align=”center”>
+<a href=”[https://www.yushi.dev/](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0)" target=”_blank” rel=”noreferrer”>Proportional Odds Model in R</a> 
+</h3>
 
 # 📊 Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LuZhang907)](https://github.com/yushi1007)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuZhang907&layout=compact)](https://github.com/yushi1007)
-* [Proprotional Odds Model in R]([https://www.yushi.dev/](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0)https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0)
