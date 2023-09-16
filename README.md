@@ -29,6 +29,3 @@
 
 * [Standford Open Project: Analysis for Traffic Stops](https://medium.com/@lzhang0907/standford-open-policing-project-analysis-of-traffic-stops-2987b811079f).
 
-# 📊 Github Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LuZhang907)](https://github.com/yushi1007)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuZhang907&layout=compact)](https://github.com/yushi1007)
