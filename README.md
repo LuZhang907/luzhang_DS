@@ -25,8 +25,9 @@
 
 # ✍️ Latest Project Posts
 
-* [Proportional Odds Model in R](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
+* [Proportional Odds Model in R (How to get the 5 star rating?)](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
 
+* [Standford Open Project: Analysis for Traffic Stops](file:///Users/luzhang/Documents/GitHub/Projects/Traffic%20stops/Code/traffic-stops.html).
 
 # 📊 Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=LuZhang907)](https://github.com/yushi1007)
