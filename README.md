@@ -25,7 +25,7 @@
 
 # ✍️ Latest Project Posts
 
-* [Proportional Odds Model in R (How to get the 5 star rating?)](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
+* [NYC Restaurant Data Analysis: How to get the 5-star?](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
 
 * [Standford Open Project: Analysis for Traffic Stops](https://medium.com/@lzhang0907/standford-open-policing-project-analysis-of-traffic-stops-2987b811079f).
 
