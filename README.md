@@ -9,7 +9,7 @@ I'm a math PhD student 📊, Consulting Assistant 📚 , and Machine Learning en
 </h3> 
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/zhang-lu-datascience/"><img align="left" src=![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) alt="Lu Zhang | LinkedIn" width="25px"/></a>
+<a href="https://www.linkedin.com/in/zhang-lu-datascience/"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white") alt="Lu Zhang | LinkedIn" width="25px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
