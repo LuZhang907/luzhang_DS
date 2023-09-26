@@ -4,11 +4,20 @@
 Hi there, I'm Lu 👋
 </h3>
 
-<h2 align="center">
+<h3 align="center">
 I'm a math PhD student 📊, Consulting Assistant 📚 , and Machine Learning engineer 👩‍💻!
-</h2> 
+</h3> 
 
 ### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/zhang-lu-datascience/"><img align="left" src="https://raw.githubusercontent.com/LuZhang907/luzhang_DS/main/images/linkedin.png" alt="Lu Zhang | LinkedIn" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- My Thesis
+- My Tableau Skill
+- My SQL skill
 
 
 # 💼 Technical Skills
