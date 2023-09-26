@@ -10,6 +10,8 @@ I'm a math PhD student 📊, Consulting Assistant 📚 , and Machine Learning en
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/zhang-lu-datascience/"><img align=”left” src=”https://raw.githubusercontent.com/luzhang_DA/luzhang_DS/main/images/linkedin.svg" alt=”Lu Zhang | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/zhang-lu-datascience/"><img align="left" src="https://raw.githubusercontent.com/LuZhang907/luzhang_DA/main/images/linkedin.svg" alt="Lu Zhang | LinkedIn" width="21px"/></a>
+
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -52,9 +54,9 @@ I'm a math PhD student 📊, Consulting Assistant 📚 , and Machine Learning en
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
 
-# ✍️ Latest Project Posts
-
-* [NYC Restaurant Data Analysis: How to get the 5-star?](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
+## ✍️ Latest Project Posts
 
 * [Standford Open Project: Analysis for Traffic Stops](https://medium.com/@lzhang0907/standford-open-policing-project-analysis-of-traffic-stops-2987b811079f).
+* [NYC Restaurant Data Analysis: How to get the 5-star?](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
+* [All Lending Clud Data Anlysis: Control the charge off](https://github.com/LuZhang907/Projects)
 
