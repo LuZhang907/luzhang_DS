@@ -1,5 +1,15 @@
 <img width="1000" alt="Screen Shot 2023-09-10 at 6 48 29 PM" src="https://github.com/LuZhang907/luzhang_DS/assets/63075429/5021c42d-77de-4ce0-a7af-d8dda140e4e0">
 
+<h3 align="center">
+Hi there, I'm Yu 👋
+</h3>
+
+<h2 align="center">
+I'm a PhD student (major in statistics) 📊, Consulting Assistant 📚 , and Machine Learning engineer 👩‍💻!
+</h2> 
+
+### 🤝 Connect with me:
+
 
 # 💼 Technical Skills
 
