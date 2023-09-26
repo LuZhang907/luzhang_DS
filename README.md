@@ -57,5 +57,5 @@ I'm a math PhD student 📊, Consulting Assistant 📚 , and Machine Learning en
 
 * [Standford Open Project: Analysis for Traffic Stops](https://medium.com/@lzhang0907/standford-open-policing-project-analysis-of-traffic-stops-2987b811079f).
 * [NYC Restaurant Data Analysis: How to get the 5-star?](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
-* [All Lending Clud Data Anlysis: Control the charge off](https://github.com/LuZhang907/Projects)
+* [All Lending Clud Data Anlysis: Control the charge off](https://github.com/LuZhang907/Projects).
 
