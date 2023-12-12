@@ -15,8 +15,7 @@ I'm a math PhD student 📊, Consulting Assistant 📚 , and Machine Learning en
 
 ## 🔭 I'm currently working on
 
-- My Thesis
-- Learning NLP
+- Working on writing manuscript 
 
 ## 💼 Technical Skills
 
