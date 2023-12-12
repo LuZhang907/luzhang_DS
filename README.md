@@ -4,7 +4,7 @@ Hi there, I'm Lu 👋
 </h3>
 
 <h3 align="center">
-I'm a math PhD student 📊, Consulting Assistant 📚 , and Machine Learning engineer 👩‍💻!
+I'm a math PhD Candidate 📊, Consulting Assistant 📚 , and Machine Learning engineer 👩‍💻!
 </h3> 
 
 ### 🤝 Connect with me:
