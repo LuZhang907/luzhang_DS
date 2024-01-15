@@ -15,7 +15,9 @@ I'm a math PhD Candidate 📊, Consulting Assistant 📚 , and Machine Learning 
 
 ## 🔭 I'm currently working on
 
-- Working on writing manuscript 
+- writing manuscript
+- helping with consulting clients
+- looking for full-time intern/jobs
 
 ## 💼 Technical Skills
 
