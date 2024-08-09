@@ -8,7 +8,7 @@ I'm a math PhD Candidate 📊, Statistical Consulting Assistant 📚 , and Machi
 </h3> 
 
 ### 🤝 Connect with me:
- <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+ - <a href="https://www.linkedin.com/in/zhang-lu-datascience/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
 <a href="https://www.linkedin.com/in/zhang-lu-datascience/"><img align="left" src="https://raw.githubusercontent.com/LuZhang907/luzhang_DA/main/images/linkedin.svg" alt="Lu Zhang | LinkedIn" width="21px"/></a>
 
