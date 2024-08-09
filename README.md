@@ -16,8 +16,13 @@ I'm a math PhD Candidate 📊, Consulting Assistant 📚 , and Machine Learning 
 ## 🔭 I'm currently working on
 
 - writing manuscript
-- helping with consulting clients
-- looking for full-time intern/jobs
+- helping with statistical consulting clients
+- looking for full-time data science job
+
+## Publications
+* [Major Issues in High-frequency Financial Data Analysis: A Survey of Solutions
+](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4834362).
+* Market Predictability Before The Closing Bell Rings (with Dr.Lei Hua), submitted to The Journal of Finance and Data Science.
 
 ## 💼 Technical Skills
 
