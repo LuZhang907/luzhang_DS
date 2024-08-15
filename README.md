@@ -59,6 +59,8 @@ I'm a math PhD Candidate 📊, Statistical Consulting Assistant 📚 , and Machi
 
 ## ✍️ Latest Project Posts
 
+* [Bayesian A/B Testing Demo](https://github.com/LuZhang907/Bayesian-A-B-Testing/blob/main/BayesianABtesting.ipynb).
+* [Monte-Carlo-Simulation-for-Demand-Risk-Management](https://github.com/LuZhang907/Monte-Carlo-Simulation-for-Demand-Risk-Management/blob/main/Monte%20Carlo%20Simulation%20For%20Demand%20Risk%20Management.ipynb).
 * [Standford Open Project: Analysis for Traffic Stops](https://medium.com/@lzhang0907/standford-open-policing-project-analysis-of-traffic-stops-2987b811079f).
 * [NYC Restaurant Data Analysis: How to get the 5-star?](https://medium.com/@lzhang0907/proportional-odds-model-in-r-53698533cab0).
 * [All Lending Clud Data Anlysis: Control the Risk](https://github.com/LuZhang907/Projects).
