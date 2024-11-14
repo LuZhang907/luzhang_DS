@@ -18,12 +18,13 @@ I'm a math PhD Candidate 📊, Statistical Consulting Assistant 📚 , and Machi
 
 - writing manuscript
 - helping with statistical consulting clients
-- looking for full-time data science job
+- looking for full-time job
 
 ## Publications
+* [Market Predictability Before the Closing Bell Rings](https://www.mdpi.com/2227-9091/12/11/180)
 * [Major Issues in High-frequency Financial Data Analysis: A Survey of Solutions
 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4834362).
-* Market Predictability Before The Closing Bell Rings (with Dr.Lei Hua), submitted to The Journal of Finance and Data Science.
+
 
 ## 💼 Technical Skills
 
